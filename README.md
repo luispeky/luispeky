@@ -8,16 +8,14 @@ tenho 20 anos, sou apaixonado por tecnologia, programação e criação de conte
 Além dos estudos, compartilho dicas, tutoriais e curiosidades sobre o mundo tech nas redes sociais, com conteúdos voltados para quem está começando ou quer se aprofundar na área. Faço isso com vídeos, edições criativas e uma linguagem acessível — conectando aprendizado e entretenimento.
 
 <p align="left">
-    <a href="[https://youtube.com/@devpeky?si=30nWxlxPXHXj3L5Z](https://youtube.com/@devpeky?si=30nWxlxPXHXj3L5Z)
-">
+    <a href="https://www.youtube.com/@devpeky">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="[https://youtube.com/@devpeky?si=30nWxlxPXHXj3L5Z](https://youtube.com/@devpeky?si=30nWxlxPXHXj3L5Z)
-">
+    <a href="https://www.youtube.com/@devpeky">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
