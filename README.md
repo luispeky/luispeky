@@ -70,8 +70,8 @@ Além dos estudos, compartilho dicas, tutoriais e curiosidades sobre o mundo tec
     <td>Apps nativos para Android e iOS</td>
   </tr>
   <tr>
-    <td><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" align="top"/> <b>Flutter</b></td>
-    <td>Apps multiplataforma com um só código</td>
+    <td><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" align="top"/> <b>Next.js</b></td>
+    <td>Framework React com SSR e rotas para web</td>
   </tr>
   <tr>
     <td><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="top"/> <b>Tailwind</b></td>
