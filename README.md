@@ -66,10 +66,6 @@ Além dos estudos, compartilho dicas, tutoriais e curiosidades sobre o mundo tec
     <td>Interfaces modernas em SPA</td>
   </tr>
   <tr>
-    <td><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align="top"/> <b>React Native</b></td>
-    <td>Apps nativos para Android e iOS</td>
-  </tr>
-  <tr>
     <td><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" align="top"/> <b>Next.js</b></td>
     <td>Framework React com SSR e rotas para web</td>
   </tr>
