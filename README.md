@@ -128,10 +128,6 @@ Além dos estudos, compartilho dicas, tutoriais e curiosidades sobre o mundo tec
     <td><img width="20" src="https://cdn.simpleicons.org/n8n/EA4B71" align="top"/> <b>n8n</b></td>
     <td>Automação de fluxos e integrações</td>
   </tr>
-  <tr>
-    <td><img width="20" src="https://cdn.simpleicons.org/whatsapp/25D366" align="top"/> <b>Evolution API</b></td>
-    <td>Integração de mensagens via WhatsApp</td>
-  </tr>
 </table>
 
 ### 🛠️ Ferramentas
